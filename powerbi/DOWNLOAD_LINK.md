@@ -11,9 +11,7 @@ CYCLISTIC BIKE-SHARE DASHBOARD
 
 ## 🔗 DOWNLOAD LINK:
 
-**[👉 CLICK HERE TO DOWNLOAD THE DASHBOARD (.pbix file)](
-[https://www.dropbox.com/scl/fi/14huoembf0o3nffx724n/Cyclistic_Bi.pbix?dl=0](https://www.dropbox.com/scl/fi/l4huoembft0o3nffx724n/Cyclistic_Bi.pbix?rlkey=bu99904cwaf3n642qaj5eopys&st=jd74c0zd&dl=0))**
-
+**[👉 CLICK HERE TO DOWNLOAD THE DASHBOARD (.pbix file)](https://www.dropbox.com/scl/fi/l4huoembft0o3nffx724n/Cyclistic_Bi.pbix?rlkey=bu99904cwaf3n642qaj5eopys&st=jd74c0zd&dl=0)**
 ---
 
 ## 📋 INSTRUCTIONS:
