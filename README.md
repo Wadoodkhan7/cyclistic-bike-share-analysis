@@ -137,39 +137,43 @@ Casual riders peak during midday and weekends.
 - Highlight cost savings vs single rides  
 
 ---
-
 ## 📖 What I Learned
 
-- End-to-end data analysis workflow (SQL → BI Dashboard)  
-- Handling large datasets (~5M+ rows)  
-- Feature engineering for time-based analysis  
-- Translating data insights into business strategies  
+- Built an end-to-end data analysis pipeline (data loading → cleaning → analysis → visualization)  
+- Worked with large-scale datasets (~5M+ records) using SQL  
+- Applied feature engineering to extract time-based behavioral insights  
+- Designed interactive dashboards in Power BI for business storytelling  
+- Translated analytical findings into actionable business recommendations  
 
 ---
 
 ## 📂 Project Structure
 
+```
 cyclistic-bike-share-analysis/
 │
 ├── sql/
-│ ├── 01_data_loading.sql
-│ ├── 02_data_cleaning.sql
-│ ├── 03_feature_engineering.sql
-│ └── 04_exploratory_analysis.sql
+│   ├── 01_data_loading.sql
+│   ├── 02_data_cleaning.sql
+│   ├── 03_feature_engineering.sql
+│   └── 04_exploratory_analysis.sql
 │
 ├── powerbi/
-│ └── cyclistic_dashboard.pbix
+│   └── cyclistic_dashboard.pbix
 │
 ├── images/
-│ └── dashboard_overview.png
+│   └── dashboard_overview.png
 │
 └── README.md
+```
 
 ---
 
 ## 📌 Conclusion
 
-This project highlights clear behavioral differences between casual riders and members. By aligning marketing strategies with user behavior patterns, Cyclistic can effectively convert casual riders into long-term members and drive business growth.
+This analysis revealed clear behavioral differences between casual riders and members. Members exhibit frequent, short, commute-based usage, while casual riders demonstrate longer, leisure-oriented and seasonal behavior.
+
+By aligning marketing strategies with these patterns—particularly targeting weekend and summer users—Cyclistic can effectively convert casual riders into long-term members and drive sustainable growth.
 
 ---
 
